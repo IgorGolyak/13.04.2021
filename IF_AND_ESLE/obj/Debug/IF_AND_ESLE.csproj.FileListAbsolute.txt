@@ -1,0 +1,7 @@
+C:\Users\golya\source\repos\IF_AND_ESLE\IF_AND_ESLE\bin\Debug\IF_AND_ESLE.exe.config
+C:\Users\golya\source\repos\IF_AND_ESLE\IF_AND_ESLE\bin\Debug\IF_AND_ESLE.exe
+C:\Users\golya\source\repos\IF_AND_ESLE\IF_AND_ESLE\bin\Debug\IF_AND_ESLE.pdb
+C:\Users\golya\source\repos\IF_AND_ESLE\IF_AND_ESLE\obj\Debug\IF_AND_ESLE.csprojAssemblyReference.cache
+C:\Users\golya\source\repos\IF_AND_ESLE\IF_AND_ESLE\obj\Debug\IF_AND_ESLE.csproj.CoreCompileInputs.cache
+C:\Users\golya\source\repos\IF_AND_ESLE\IF_AND_ESLE\obj\Debug\IF_AND_ESLE.exe
+C:\Users\golya\source\repos\IF_AND_ESLE\IF_AND_ESLE\obj\Debug\IF_AND_ESLE.pdb
